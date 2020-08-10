@@ -1,0 +1,77 @@
+/* Navbar container */
+
+h1,h3 {
+  color: #333;
+  padding-left: 20px;
+}
+.top {
+  
+  padding-left: 20px;
+  padding-bottom: 5px;
+  color: #999;
+  border-bottom: solid 0.5px;
+}
+.image {
+  padding-left: 15px;
+  display: inline-block;
+  float: left;
+  width: 100px;
+}
+.titles {
+  display: inline-block;
+  
+}
+
+.log_button {
+  float: right;
+  display: inline-block;
+  
+  text-align: center;
+    
+}
+
+.but {
+  background-color: #337ab7;
+  border: solid 0.5px;
+  border-radius: 5px;
+  padding:10px;
+  width: 250px;
+  font-size: 15px;
+  color: #fff;
+}
+
+.body
+{
+  background-color: #f7f7f7;
+}
+
+.div2
+{
+background-color:white;
+display: inline-block;
+
+}
+.mydiv
+{
+background-color:white;
+letter-spacing: 4px;
+display: inline-block;
+font-family: "Courier New", Courier, monospace;
+padding-left:700px;
+
+
+}
+
+
+      
+
+        .middle {
+            transition: .5s ease;
+            opacity: 0;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            text-align: center;
+        }
